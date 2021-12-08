@@ -13,3 +13,4 @@ package-lock.json
 webpack.config.js
 images/component-mapping*.png
 .github/*
+/src
